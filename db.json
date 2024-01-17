@@ -1,0 +1,5428 @@
+{
+  "accounts": [
+    {
+      "accountId": 1,
+      "email": "user1@example.com",
+      "authToken": "authToken1",
+      "creationDate": "2022-02-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 2,
+      "email": "user3@example.com",
+      "authToken": "authToken1464",
+      "creationDate": "2022-15-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 3,
+      "email": "user23@example.com",
+      "authToken": "authToken44534",
+      "creationDate": "2022-01-20",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 4,
+      "email": "user2@example.com",
+      "authToken": "authToken154635",
+      "creationDate": "2022-01-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 5,
+      "email": "user1@example.com",
+      "authToken": "authToken1",
+      "creationDate": "2022-01-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 6,
+      "email": "user1@example.com",
+      "authToken": "authToken1",
+      "creationDate": "2022-01-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 7,
+      "email": "user1@example.com",
+      "authToken": "authToken1",
+      "creationDate": "2022-01-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "accountId": 8,
+      "email": "user1@example.com",
+      "authToken": "authToken1",
+      "creationDate": "2022-01-01",
+      "profiles": [
+        {
+          "profileId": 101,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 102,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 103,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 104,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 105,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 106,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 107,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 108,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 109,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        },
+        {
+          "profileId": 110,
+          "country": "USA",
+          "marketplace": "Amazon",
+          "campaigns": [
+            {
+              "campaignId": 1001,
+              "clicks": 50,
+              "cost": 100,
+              "date": "2022-01-10"
+            },
+            {
+              "campaignId": 1002,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1003,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1004,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1005,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1006,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1007,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1008,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1009,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            },
+            {
+              "campaignId": 1010,
+              "clicks": 75,
+              "cost": 150,
+              "date": "2022-01-15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
